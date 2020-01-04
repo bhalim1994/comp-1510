@@ -1,5 +1,3 @@
-Benedict Halim, A01185587, 1B, September 29, 2019
-
 This assignment is 100% complete.
 
 
